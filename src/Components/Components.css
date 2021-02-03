@@ -1,0 +1,23 @@
+.boxInput {
+    height: 35vh;
+    width: 150vh;
+}
+
+
+.Botao{
+    height: 10vh;
+    width: 10vh;
+    background-color: #99B898;
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.4em;
+    border: none;
+    border-radius: 5%;
+    display: flex;
+    float: left;
+    align-items: center;
+}
+
+.Botao :active{
+    background-color: white;
+}
