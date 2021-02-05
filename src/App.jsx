@@ -8,13 +8,13 @@ function App() {
     <div className="App">
       <h1>Conversor de texto</h1>
       <BoxInput />
-      <div>
-      <Botao label="teste"/>
-      <Botao label="teste"/>
-      <Botao label="teste"/>
-      <Botao label="teste"/>
-      <Botao label="teste"/>
-      </div>
+        <div className="botoes">
+            <Botao label="teste"/>
+            <Botao label="teste"/>
+            <Botao label="teste"/>
+            <Botao label="teste"/>
+            <Botao label="teste"/>
+        </div>
     </div>
   );
 }
